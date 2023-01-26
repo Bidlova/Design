@@ -7,6 +7,7 @@ View CV/résumé PDF
 # Klára Bidlová
 ## graphic designer
 klara.bidlova@gmail.com
+
 +420 730 820 895
 
 ## About me
@@ -17,6 +18,7 @@ I'm very visually oriented person and I always aim for the best in my projects t
 2020 - now
 University of Creative Communication, Prague
 Graphic and Media Design
+
 2018 - 2020 
 LITEGRA - Sš a Mš o. p. s., Litoměřice
 Graphic Design - Packaging Design
@@ -25,13 +27,16 @@ Graphic Design - Packaging Design
 2020 - now
 occasional freelance work
 (logos, advertising materials, visual identities,   illustrations )
+
 2019
 Tekro, spol. s r. o. 
 graphic designer - part-time job
 (building brand identity, advertising materials)
+
 2019
 Butterflies & Hurricanes
 internship - packaging design
+
 2018
 Latisk
 graphic designer - part-time job
@@ -40,7 +45,9 @@ illlustrations, communication with clients )
 
 ## Language skills 
 Czech - native speaker
+
 English - Intermediate
+
 Russian - beginner
 
 ## Work skills
