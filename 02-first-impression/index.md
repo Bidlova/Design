@@ -1,4 +1,4 @@
-![Portrait photography of me holding my head aggressively in my hands on black background. ](portret.png)
+![Portrait photography of me holding my head aggressively in my hands on black background. ](portret.jpg)
 
 Hi, I'm Klara! 🙋🏼‍♀️ 
 
