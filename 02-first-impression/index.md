@@ -1,3 +1,5 @@
+![Portrait photography of me holding my head aggressively in my hands on black background.](portret.png)
+
 Hi, I'm Klara! 🙋🏼‍♀️ 
 
 Even though I label myself as a graphic designer, I enjoy many things besides "traditional" graphic design. I'm kind of letting life decide my destination. 
