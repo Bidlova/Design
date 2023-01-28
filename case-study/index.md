@@ -8,4 +8,4 @@ Redesign of Prague-based flower shops called "Give Flowers". The claims come fro
 
 ![A color palette of baby pink, fresh green, black, beige, and white. ](barvy.png)
 
-![Tote bags with different colored logos saying give love, give thanks, give joy. ](plátěnky.png)
+![Tote bags with different colored logos saying give love, give thanks, give joy. ](totebags.png)
