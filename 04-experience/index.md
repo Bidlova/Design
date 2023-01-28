@@ -1,6 +1,6 @@
 # Experience
 
-![View CV/résumé PDF](CV-Bidlova.pdf)
+[View CV/résumé PDF](CV-Bidlova.pdf)
 
 ---
 
