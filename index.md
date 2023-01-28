@@ -5,7 +5,7 @@ You can look at some of my work or learn something about me here.
 ## About Me
 
 - [CV/résumé](04-experience)
-- [Voice, Tone and Style guide](05-voice-tone)
+- [Voice, Tone and Style guide](05-voice_tone)
 - contact: klara.bidlova@gmail.com
 
 ## Case Study
@@ -16,5 +16,5 @@ You can look at some of my work or learn something about me here.
 ## Extras
 
 - [Alternative Text](01-alternative-text)
-- [First Impresion](02-firs-impresion)
+- [First Impresion](02-first-impression)
 - [Takeaways](takeaways)
